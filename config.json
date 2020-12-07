@@ -1,0 +1,13 @@
+{
+    "URL": {
+        "ScheduleURL": "<adjust schedule API endpoint>",
+        "CreateStoreURL": "<create certificate store API endpoint>"
+    },
+    "Auth": {
+        "APIAuthorization": "Basic <base64 username/password>"
+    },
+    "Misc": {
+        "AgentID": "<orchestrator agent ID>",
+        "ClientName": "<orchestrator client name>"
+    }
+}
